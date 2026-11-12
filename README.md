@@ -1,26 +1,25 @@
-# OneSec Growth
+# SmileFlow AI
 
-A static landing page for an AI automation and lead-generation business.
+A conversion-focused landing page for a dental clinic AI automation business.
+
+## Overview
+This project targets dental practices that need more booked consults, better patient responses, and less front-desk admin work.
 
 ## Files
-- `index.html` — website landing page
-- `styles.css` — page styling
-- `script.js` — small script for the footer year
+- `index.html` — dental clinic landing page
+- `styles.css` — styling and responsive layout
+- `script.js` — footer year script
 
-## Quick start
-Open `index.html` in a browser, or deploy it to GitHub Pages.
+## Business model
+- Setup fee: $1,500
+- Growth package: $2,500
+- Monthly retainer: $500
 
-## Business idea
-This landing page sells an AI automation agency offer for local businesses:
-- lead capture
-- AI follow-up
-- appointment booking
-- recurring revenue model
-
-## Suggested pricing
-- Starter: $1,500 setup
-- Growth: $2,500 setup
-- Retainer: $500/month
+## Value proposition
+- faster response to clinic inquiries
+- automated lead qualification
+- appointment booking automation
+- reduced missed-call losses
 
 ## Contact
-hello@onesecgrowth.com
+hello@smileflowai.com
